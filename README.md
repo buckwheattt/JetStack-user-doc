@@ -9,7 +9,8 @@ Po otevření dashboardu se zobrazí místo s widgety a tři hlavní části:
 2. **Uživatelské menu(vpravo nahoře)** - umožňuje spravovat účet a přepínat vzhled aplikace.
 3. **Režim úprav dashboardu(nahoře)** - editační režim, ve kterém je možné dashboard přizpůsobit.
 
-![interface](1.png)  
+![interface](1.png)   
+
 ---
 
 ## 1. Levé navigační menu
