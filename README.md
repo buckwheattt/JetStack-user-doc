@@ -1,6 +1,6 @@
 # Výchozí dashboard Jetstacku : Uživatelská dokumentace
 
-Tato část dokumentace vás provede výchozím dashboardem Jetstacku – místem, které uvidíte ihned po přihlášení do platformy. Dashboard slouží jako vaše domovská stránka a rozcestník do všech klíčových částí systému, kde budete vytvářet svou aplikaci, upravovat datový model, nastavovat moduly nebo spravovat uživatele.
+Výchozí dashboard Jetstacku je místem, které uvidíte ihned po přihlášení do platformy. Dashboard slouží jako vaše domovská stránka a rozcestník do všech klíčových částí systému, kde budete vytvářet svou aplikaci, upravovat datový model, nastavovat moduly nebo spravovat uživatele.
 
 ---
 
