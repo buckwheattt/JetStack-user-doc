@@ -7,7 +7,7 @@ Výchozí dashboard Jetstacku je místem, které uvidíte ihned po přihlášen�
 Po otevření dashboardu uvidíte výchozí místo s widgety a tři hlavní části:
 
 1. **Levé navigační menu** - vaše primární menu pro pohyb v systému.  
-2. **Horní panel** - obsahuje rychlé akce, vyhledávání a uživatelské menu.
+2. **Uživatelské menu**
 3. **Režim úprav dashboardu** - editační režim, ve kterém můžete dashboard přizpůsobit
 
 ![interface](1.png)  
@@ -36,15 +36,7 @@ Kliknutím na položku menu se otevře odpovídající nástroj na hlavní ploš
 
 ---
 
-## 2. Horní panel
-
-Horní lišta obsahuje několik důležitých prvků:
-
-- **Tlačítko „Actions“** – v kontextu dashboardu nabízí přepnutí do editačního režimu.
-- **Vyhledávání** – slouží k rychlému vyhledání položek v aplikaci.
-- **Uživatelská ikona (vpravo nahoře)** – kliknutím zobrazíte uživatelské menu.
-
-### Uživatelské menu (po kliknutí na ikonu)
+## 2. Uživatelské menu (po kliknutí na ikonu)
 ![interface](2.png)  
 Zobrazí se rozbalovací menu obsahující:
 
