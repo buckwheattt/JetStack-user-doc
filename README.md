@@ -4,8 +4,6 @@ Výchozí dashboard Jetstacku je místem, které uvidíte ihned po přihlášen�
 
 ---
 
-## Výchozí dashboard
-
 Po otevření dashboardu uvidíte výchozí místo s widgety a tři hlavní části:
 
 1. **Levé navigační menu** - vaše primární menu pro pohyb v systému.  
