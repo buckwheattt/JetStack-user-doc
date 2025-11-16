@@ -1,22 +1,21 @@
-# Uživatelská dokumentace: Výchozí dashboard Jetstacku
+# Výchozí dashboard Jetstacku : Uživatelská dokumentace
 
 Tato část dokumentace vás provede výchozím dashboardem Jetstacku – místem, které uvidíte ihned po přihlášení do platformy. Dashboard slouží jako vaše domovská stránka a rozcestník do všech klíčových částí systému, kde budete vytvářet svou aplikaci, upravovat datový model, nastavovat moduly nebo spravovat uživatele.
 
 ---
 
-## 1. Co na této obrazovce najdete
+## Výchozí dashboard
 
-Po otevření dashboardu uvidíte tři hlavní části:
+Po otevření dashboardu uvidíte výchozí místo s widgety a tři hlavní části:
 
-1. **Levá navigační lišta** – vaše primární menu pro pohyb v systému.  
-2. **Horní panel** – obsahuje rychlé akce, vyhledávání a uživatelské menu.  
-3. **Hlavní plocha dashboardu** – výchozí místo, kam si můžete přidávat widgety (např. datum a čas).
+1. **Levé navigační menu** - vaše primární menu pro pohyb v systému.  
+2. **Horní panel** - obsahuje rychlé akce, vyhledávání a uživatelské menu.
+3. **Režim úprav dashboardu** - editační režim, ve kterém můžete dashboard přizpůsobit
 
-Výchozí dashboard je většinou prázdný, kromě ukázkového widgetu *Date & Time*, který slouží jako demonstrace možností rozhraní.
 ![interface](1.png)  
 ---
 
-## 2. Levé navigační menu
+## 1. Levé navigační menu
 
 Na levé straně najdete kompletní strukturu Jetstacku. Každá sekce má svůj účel:
 
@@ -39,7 +38,7 @@ Kliknutím na položku menu se otevře odpovídající nástroj na hlavní ploš
 
 ---
 
-## 3. Horní panel
+## 2. Horní panel
 
 Horní lišta obsahuje několik důležitých prvků:
 
@@ -47,7 +46,7 @@ Horní lišta obsahuje několik důležitých prvků:
 - **Vyhledávání** – slouží k rychlému vyhledání položek v aplikaci.
 - **Uživatelská ikona (vpravo nahoře)** – kliknutím zobrazíte uživatelské menu.
 
-### Uživatelská nabídka (po kliknutí na ikonu)
+### Uživatelské menu (po kliknutí na ikonu)
 ![interface](2.png)  
 Zobrazí se rozbalovací menu obsahující:
 
@@ -58,7 +57,7 @@ Zobrazí se rozbalovací menu obsahující:
 
 ---
 
-## 4. Režim úprav dashboardu
+## 3. Režim úprav dashboardu
 ![interface](3.png)  
 Kliknutím na **Actions → Edit Dashboard** se otevře editační režim, ve kterém můžete dashboard přizpůsobit.
 
@@ -77,5 +76,3 @@ Kliknutím na **Actions → Edit Dashboard** se otevře editační režim, ve kt
   - **Save** – uloží vaše změny.  
   - **Reset to default** – vrátí dashboard do původního stavu.  
   - **Close** – zavře editační režim bez uložení.
-
-Tento režim je ideální pro přípravu pracovního prostředí tak, aby odpovídalo vašemu stylu práce a rychlé orientaci v projektu.
