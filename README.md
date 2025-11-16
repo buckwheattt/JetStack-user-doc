@@ -2,7 +2,6 @@
 
 Výchozí dashboard Jetstacku je místem, které se zobrazí ihned po přihlášení do platformy. Dashboard slouží jako domovská stránka a rozcestník do všech klíčových částí systému.
 
----
 
 Po otevření dashboardu se zobrazí místo s widgety a tři hlavní části:
 
