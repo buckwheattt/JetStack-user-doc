@@ -48,7 +48,7 @@ Zobrazí se rozbalovací menu obsahující:
 
 ## 3. Režim úprav dashboardu
 ![interface](3.png)  
-Kliknutím na **Actions → Edit Dashboard** se otevře editační režim, ve kterém můžete dashboard přizpůsobit.
+Kliknutím na **Actions → Edit Dashboard** se otevře editační režim, ve kterém lze dashboard přizpůsobit.
 
 ### Co zde je možné dělat:
 
