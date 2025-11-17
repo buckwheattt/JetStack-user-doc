@@ -40,10 +40,10 @@ Kliknutím na položku menu se otevře odpovídající nástroj na hlavní ploš
 ![interface](2.png)  
 Zobrazí se rozbalovací menu obsahující:
 
-- Jméno a informace o přihlášeném uživateli.
-- Přepínač **světlého / tmavého / automatického režimu**.
-- Odkaz na **nastavení profilu**.
-- Možnost **odhlásit se** ze systému.
+- **Jméno a informace o přihlášeném uživateli**.
+- **Light/Dark mode** - přepínač světlého / tmavého / automatického režimu.
+- **User settings** - odkaz na nastavení profilu.
+- **Sign out** - Možnost odhlásit se ze systému.
 
 ---
 
