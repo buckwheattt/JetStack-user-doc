@@ -21,7 +21,15 @@ Na levé straně je kompletní struktura Jetstacku. Každá sekce má svůj úč
 - Vrací zpět na úvodní domovskou obrazovku.
 
 ### **Administration**
-- Obsahuje správu uživatelů, skupin, dat, souborů a dalších administrativních nástrojů.
+- Sekce zaměřená na správu dat a uživatelů:
+  - **Data browser** – nástroj pro prohlížení a kontrolu uložených dat.
+  - **Users** – správa uživatelských účtů.
+  - **User groups** – definování a organizace uživatelských skupin.
+  - **Local storage** – správa lokálních úložišť a uložených hodnot.
+  - **Media files** – přehled a správa nahraných mediálních souborů.
+  - **Filter lists** – nastavení a správa předdefinovaných filtrů.
+  - **Permanent links** – tvorba trvalých odkazů na konkrétní zdroje nebo pohledy.
+  - **App-wide folders** – správa složek sdílených napříč celou aplikací.
 
 ### **Implementation**
 - Sekce pro stavbu aplikaci:
